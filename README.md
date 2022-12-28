@@ -1,1 +1,3 @@
-Initial commit (Jens)
+# Codecademy
+
+Java, T-SQL, JavaFX
